@@ -1,0 +1,16 @@
+body {
+    background-color: seagreen;
+}
+
+.product-row {
+    display:inline-block;
+    background-color: green;
+    border: 1px solid black;
+    width: 30%;
+    margin: 5px;
+    padding: 5px;
+}
+
+.product-row h2 {
+    text-align: center;
+}
